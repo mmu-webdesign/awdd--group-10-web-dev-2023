@@ -99,9 +99,7 @@ Analyse the 3 sites using the criteria on the Competitor Analysis document provi
 
 **The Competitor Analysis document is too complex for Markdown and is therefore supplied as an MSword document.**
 
-> Document: [competitor-analysis.docx ](competitor-analysis.docx) provided.
-
-[Animal Charities Competitor Analysis.docx](https://github.com/mmu-webdesign/awdd--group-10-web-dev-2023/files/10804105/Animal.Charities.Competitor.Analysis.docx)
+> Document: [Animal Charities Competitor Analysis.docx](https://github.com/mmu-webdesign/awdd--group-10-web-dev-2023/files/10804105/Animal.Charities.Competitor.Analysis.docx)
 
 
 _Your competitor analysis will be reviewed and feedback provided at SP1. It is marked at SP5._
