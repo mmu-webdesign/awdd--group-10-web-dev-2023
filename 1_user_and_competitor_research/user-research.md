@@ -8,6 +8,7 @@
 
 ## Profiles
 ### Harry:
+#### Profile 1:
 - Relationship (e.g. Mum, dad etc....)
 
 - Name
@@ -24,7 +25,7 @@
 
 - Needs and goals
 
-### Nathan:
+#### Profile 2:
 - Relationship (e.g. Mum, dad etc....)
 
 - Name
