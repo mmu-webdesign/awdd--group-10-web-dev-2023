@@ -7,6 +7,8 @@
 ---
 
 ## Profiles
+##Harry:
+- Relationship (e.g. Mum, dad etc....)
 
 - Name
 
@@ -21,6 +23,24 @@
 - Dislikes
 
 - Needs and goals
+
+##Nathan:
+- Relationship (e.g. Mum, dad etc....)
+
+- Name
+
+- Age
+
+- Occupation
+
+- Description or quote
+
+- Likes
+
+- Dislikes
+
+- Needs and goals
+
 
 ---
 
