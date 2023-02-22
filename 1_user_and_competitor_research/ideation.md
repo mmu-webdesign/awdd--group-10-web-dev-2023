@@ -26,11 +26,4 @@ The website design will cover multiple aspects of the Dog Charity, including an 
 <img src="sp1-media/DSC_0080_Original.png" alt="Border Collie in the wild" title="Woof">
 
 ```
-<img src="sp1-media/octocat.png" alt="Octocat" title="something">
-```
-
-![Alt text](sp1-media/octocat.png?raw=true "Title")
-
-```
-![Alt text](sp1-media/octocat.png?raw=true "Title")
-```
+![Alt text](sp1-media/DSC_0080_Original.png?raw=true "Woof")
