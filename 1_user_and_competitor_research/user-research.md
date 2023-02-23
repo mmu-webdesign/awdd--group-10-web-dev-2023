@@ -65,7 +65,6 @@ Profile 2:
 •	Cons: Being online it may not be accessible by everyone so ensuring it is legible if printed or shared is important for spreading good knowledge and advice.
 •	Needs and goals: Informative website/guide that gives suitable amount of advice but not too much to become over complicated or boring to read. Must be an engaging page/website.
 
-![image](https://user-images.githubusercontent.com/125035756/220996301-53e449da-82aa-46cf-8f1d-a399c117d7b9.png)
 
 
 
