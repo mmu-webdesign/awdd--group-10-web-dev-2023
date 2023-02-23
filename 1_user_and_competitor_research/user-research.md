@@ -59,7 +59,9 @@ Profile 1:
 
 •	Needs and goals: Informative content, easy to navigate. Different from competitors and has a useful purpose
 
+
 Profile 2:
+
 •	Relation: Nan
 •	Name: Audrey
 •	Age: 78
