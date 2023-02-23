@@ -8,6 +8,8 @@ The _italic text_ below is a guide to each section. Remove this text and add you
 
 _What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift_.
 
+Our website design will cover multiple aspects of the Dog Charity, including an adoption section, donation section, products/services section, and a general guide/advice section. The website will be a place new, existing or even non-owners can visit to gain useful information about dog care.
+
 ## Business objectives/goals
 
 _List the objectives/goals discovered in the client briefing. What user questions must the site answer_?
