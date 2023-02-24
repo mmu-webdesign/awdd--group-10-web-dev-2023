@@ -1,13 +1,5 @@
 # Ideation Report
 
-Describe and illustrate your ideation process. Describe the techniques use and report on the output/results.
-
-Has it helped you define you project? Explore a variety of ideas in a short time? Get ann agreement on the topic of your guide? Investigate possibilities?
-
-Put your media in the `sp1-media` folder.
-
-Embed the images in the markdown file using either of these methods.
-
 To begin planning our website, we initially used a brainstorming approach. This approach meant that we gathered a large range of ideas that would fit the scope of the assignment. This also meant that everyone put forward their ideas without any criticism.
 
 Once we had a collection of ideas, we created a table containing the requirements of the website, and went through each website idea, comparing it to the requirements and analysing whether it would work well/fit the requirements.
