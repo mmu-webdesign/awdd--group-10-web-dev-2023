@@ -9,21 +9,18 @@
 ## Profiles:
 ### Harry:
 #### Profile 1:
-- Relationship (e.g. Mum, dad etc....)
-
-- Name
-
-- Age
-
-- Occupation
+•	Relation: Mum
+•	First Name: Jackie
+•	Age: 56
+•	Occupation: Retired
 
 •	"There is so much conflicting information when searching for advice on dog care, therefopre it would be a great idea for the site to contain relevant, useful information in one place."
 
-- Likes
+• Likes: Features such as the report abuse button, helps look after them.
 
-- Dislikes
+• Dislikes: Possibly too many features, adopting, advice etc... Is it too much.
 
-- Needs and goals
+• Needs and goals: Due to the large amount of features, the site will need to be structured logically and make sense.
 
 
 #### Profile 2:
@@ -34,11 +31,11 @@
 
 •	"We recently got a dog, and I think it would be so useful to have a single place containing so much useful information about dogs, as it can be difficult when rasiing a dog from a puppy/a young age."
 
-•	Likes:
+•	Likes: Likes that all information would be available in one place.
 
-•	Dislikes:
+•	Dislikes: There is so much information on dog care, so it may be difficult to cover all aspects.
 
-•	Needs and goals
+•	Needs and goals: Easy and simple to use, even for older generation. Contain useful information.
 
 
 ### Nathan:
