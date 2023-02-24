@@ -1,19 +1,9 @@
 # Proposal
 
-The _italic text_ below is a guide to each section. Remove this text and add your own, retaining the headings.
-
-**Word count** 1000 words (+/- 10%) maximum
-
 ## Project summary
-
-_What are you trying to communicate with your site? A description of the project in a sentence or two. Imagine you are trying to explain what your group can do quickly to a colleague whilst in a lift_.
-
 Our website design will cover multiple aspects of the Dog Charity, including an adoption section, donation section, products/services section, and a general guide/advice section. The website will be a place new, existing or even non-owners can visit to gain useful information about dog care, donate to a charity, and even browse and adopt a rescue dog. We will also advertise/recommend products related to dog care etc...
 
 ## Business objectives/goals
-
-_List the objectives/goals discovered in the client briefing. What user questions must the site answer_?
-
 - Create a comprehensive guide on dog care
 - Inform users on how to/whether to adopt a dog
 - Provide a space where related products can be advertised, and allow users to browse and even purchase products
@@ -28,9 +18,6 @@ _List the objectives/goals discovered in the client briefing. What user question
 
 
 ## Primary audience(s)
-
-_A short overview of target users (reflecting your user personas and user journeys). This might include age, gender, education, occupation, income, preferred OS, browser, computer device, and internet skill level. What are the audience goals? What does the audience want and need_?
-
 Target Users:
 - Age: Regarding age, we have quite a wide target audience. Users must be 18+, as users must be of age to look after a dog.
 - Gender: Our target users are of any gender, as this does not effect whether you can look after a dog.
@@ -45,11 +32,21 @@ Target Users:
 -Audience Goals:
 
 
-
 ## Branding/perception
+- Our logos and branding will be consistent across the entire site, this is something we noticed was not executed well in competitors sites.
+- The site will be both profesional, but friendly. This means usres will not be overwelmed by images and content, however the site will appear warm and human. This will also be echoed in the language used, it needs to be professional but considerate, as adoption and care can be a sensitive subject for some users.
+- The site will contain a large amount of images, however these will be displayed logically and professionally, not jumbled and cluttered.
 
-_Corporate design considerations (logo, branding, etc.), abstract qualities (friendly, professional, approachable, etc.), personality (that the site reflects or embodies), key visual attributes (colour, graphic style, etc.), language (professional, informal or instructional, etc.). How will the site deliver the desired perception_?
 
 ## Communication strategy
+Primary messages:
+- Dog care/advice
+- Charity donations
+- Dog related products
+- Dog adoption
 
-_What are the primary messages you want to convey to the target audience? What makes your guide unique? What can you do that other guides can&#39;t? Briefly explain how the new site will convey the primary messages_.
+What makes us unique?:
+Our site is unique due to it containing all of the primary messages above, most similar sites only provide 1 or 2 of our primary messages, we do all of them.
+
+How we will convey the primary messages:
+We will clearly display all the mnessages via a clear and logical menu located across all pages of ths site. This will ensure users can easily access and view all our messages, and everything we have to offer.
