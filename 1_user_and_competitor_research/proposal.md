@@ -31,6 +31,8 @@ _List the objectives/goals discovered in the client briefing. What user question
 
 _A short overview of target users (reflecting your user personas and user journeys). This might include age, gender, education, occupation, income, preferred OS, browser, computer device, and internet skill level. What are the audience goals? What does the audience want and need_?
 
+
+
 ## Branding/perception
 
 _Corporate design considerations (logo, branding, etc.), abstract qualities (friendly, professional, approachable, etc.), personality (that the site reflects or embodies), key visual attributes (colour, graphic style, etc.), language (professional, informal or instructional, etc.). How will the site deliver the desired perception_?
