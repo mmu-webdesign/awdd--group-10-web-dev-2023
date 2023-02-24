@@ -37,9 +37,9 @@ Target Users:
 - Education: Once again, our target users can have any form of education, most 18+ users will have atleast some form of basicv information, and this is all that is required to be able to access the site/look after a dog.
 - Occupation: There is no specific target audience for occupation, the only requirement is that the users occupation does not mean they will not be around  the dog enough to care for it. For example if a user's occupation requires them to be away from home for weeks on end, they will not be fit to look after a dog, as they will need daily walks, feeding, training etc... Retirees are the most ideal users as they will have the most amount of spare time to look after their dog.
 - Income: Our target users will need to have some sort of income, or have atleast previously had an income (e.g. retired or inbetween jobs). This is because looking after a dog can be quite expensive, especially when it comes to medication or any other vet bills. Also due to the fact that we will be recommending/selling dog related products, it is ideal that the users have the money to purchase the products we are advertising.
-- Preferred OS:
-- Preferred Browser:
-- Computer Device:
+- Preferred OS: The target audience for operating system includes both IOS and android users. This is because, as mentioned in our objectives above, we will be creating a website that is compatible with both OS. This ensures that we reach as large a market as possible. Making a site exclusively for one OS would severely reduce our traffic.
+- Preferred Browser: Once again, as mentioned above in our objectives, our site will cater for all mainstream browsers. This ensures we reach as many users as possible. We cannot cater for all browsers that exist as there are a large number, but this should not effect our traffic as almost all users will have access to any mainstream browsers.
+- Computer Device: Once again, as mentioned above in our aims/objectives, our site will cater to any Computer device. This includes mobile phones, tablets, laptops, desktops etc... We will ensure our site can adapt to any screen size, as to meet this aim. This also makes sure we do not limit traffic to our site, as anyone with any device will be able to access it. These accessibility features are extremely important, especially in our case. this is because we will be providing important advice and information which many users may want/need to access. We want the most people possible to be able to access our site.
 - Internet Skill Level:
 
 -Audience Goals:
