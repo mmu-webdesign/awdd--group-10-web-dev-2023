@@ -40,7 +40,7 @@ Target Users:
 - Preferred OS: The target audience for operating system includes both IOS and android users. This is because, as mentioned in our objectives above, we will be creating a website that is compatible with both OS. This ensures that we reach as large a market as possible. Making a site exclusively for one OS would severely reduce our traffic.
 - Preferred Browser: Once again, as mentioned above in our objectives, our site will cater for all mainstream browsers. This ensures we reach as many users as possible. We cannot cater for all browsers that exist as there are a large number, but this should not effect our traffic as almost all users will have access to any mainstream browsers.
 - Computer Device: Once again, as mentioned above in our aims/objectives, our site will cater to any Computer device. This includes mobile phones, tablets, laptops, desktops etc... We will ensure our site can adapt to any screen size, as to meet this aim. This also makes sure we do not limit traffic to our site, as anyone with any device will be able to access it. These accessibility features are extremely important, especially in our case. this is because we will be providing important advice and information which many users may want/need to access. We want the most people possible to be able to access our site.
-- Internet Skill Level:
+- Internet Skill Level: Users will need a very basic internet skill level. As long as they have the skills to be able to access a browser, and search for a website or subject, they will be able to use/access our site. This is becasue all sorts of ages/education levels etc... own dogs, therefore we want to make the site as clear, efficient and accessible as possible.
 
 -Audience Goals:
 
