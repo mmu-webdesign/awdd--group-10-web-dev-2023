@@ -31,6 +31,19 @@ _List the objectives/goals discovered in the client briefing. What user question
 
 _A short overview of target users (reflecting your user personas and user journeys). This might include age, gender, education, occupation, income, preferred OS, browser, computer device, and internet skill level. What are the audience goals? What does the audience want and need_?
 
+Target Users:
+- Age:
+- Gender:
+- Education:
+- Occupation:
+- Income:
+- Preferred OS:
+- Preferred Browser:
+- Computer Device:
+- Internet Skill Level:
+
+-Audience Goals:
+
 
 
 ## Branding/perception
