@@ -63,9 +63,9 @@ Profile 2:
 
 •	“I want to make sure dogs are given the best quality of life and in this case a 2nd chance with owners so having a guide on how to look after them properly is perfect.”
 
-•	Pros: An informative guide with a worthwhile purpose. May attract new dog lovers and strengthen those that already do.
+•	Likes: An informative guide with a worthwhile purpose. May attract new dog lovers and strengthen those that already do.
 
-•	Cons: Being online it may not be accessible by everyone so ensuring it is legible if printed or shared is important for spreading good knowledge and advice.
+•	Dislikes: Being online it may not be accessible by everyone so ensuring it is legible if printed or shared is important for spreading good knowledge and advice.
 
 •	Needs and goals: Informative website/guide that gives suitable amount of advice but not too much to become over complicated or boring to read. Must be an engaging page/website.
 
