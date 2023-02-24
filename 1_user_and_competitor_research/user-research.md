@@ -37,6 +37,7 @@
 
 •	Needs and goals: Easy and simple to use, even for older generation. Contain useful information.
 
+---
 
 ### Nathan:
 Profile 1:
