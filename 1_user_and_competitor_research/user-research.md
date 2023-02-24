@@ -69,14 +69,4 @@ Profile 2:
 
 •	Needs and goals: Informative website/guide that gives suitable amount of advice but not too much to become over complicated or boring to read. Must be an engaging page/website.
 
-
-
-
-
 ---
-
-<!--This can be deleted prior to submission -->
-
-Repeat the above profiles as needed. Each team member should add 2 or 3 to ensure you get a wide range of opinion.
-
-_Some teams have also undertaken quick surveys among friends to get some instant feedback on the type of guide you intend to create_.
