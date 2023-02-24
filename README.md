@@ -11,7 +11,6 @@
 - Millie Kennedy, [email address](mailto:20047648@stu.mmu.ac.uk)
 - Nathan Moss, [email address](mailto:20102833@stu.mmu.ac.uk)
 - Student Name, [email address](mailto:myaddress@test.com)
-- Student Name, [email address](mailto:myaddress@test.com)
 
 ## TL;DR Assessment overview
 
