@@ -10,11 +10,8 @@
 ### Harry:
 #### Profile 1:
 •	Relation: Mum
-
 •	First Name: Jackie
-
 •	Age: 56
-
 •	Occupation: Retired
 
 •	"There is so much conflicting information when searching for advice on dog care, therefopre it would be a great idea for the site to contain relevant, useful information in one place."
