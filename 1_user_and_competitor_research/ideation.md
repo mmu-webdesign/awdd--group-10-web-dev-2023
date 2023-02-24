@@ -27,3 +27,11 @@ The website design will cover multiple aspects of the Dog Charity, including an 
 
 ```
 ![Alt text](sp1-media/DSC_0080_Original.png?raw=true "Woof")
+
+---
+
+<img src="sp1-media/Jarvis.png" alt="Working Cocker Spaniel cute" title="Woof Woof">
+```
+![Alt text](sp1-media/Jarvis.png?raw=true "Woof Woof")
+
+---
