@@ -18,7 +18,7 @@ Our website design will cover multiple aspects of the Dog Charity, including an 
 
 
 ## Primary audience(s)
-Target Users:
+###Target Users:
 - Age: Regarding age, we have quite a wide target audience. Users must be 18+, as users must be of age to look after a dog.
 - Gender: Our target users are of any gender, as this does not affect whether you can look after a dog.
 - Education: Once again, our target users can have any form of education, most 18+ users will have at least some form of basic information, and this is all that is required to be able to access the site/look after a dog.
@@ -29,7 +29,12 @@ Target Users:
 - Computer Device: Once again, as mentioned above in our aims/objectives, our site will cater to any Computer device. This includes mobile phones, tablets, laptops, desktops etc... We will ensure our site can adapt to any screen size, as to meet this aim. This also makes sure we do not limit traffic to our site, as anyone with any device will be able to access it. These accessibility features are extremely important, especially in our case. this is because we will be providing important advice and information which many users may want/need to access. We want the most people possible to be able to access our site.
 - Internet Skill Level: Users will need a very basic internet skill level. As long as they have the skills to be able to access a browser, and search for a website or subject, they will be able to use/access our site. This is because all sorts of ages/education levels etc... own dogs, therefore we want to make the site as clear, efficient, and accessible as possible.
 
--Audience Goals:
+###Audience Goals:
+- Access advice and information about dogs/dog care
+- View dog-related products recommended by the site
+- Make donations to dog charities
+- Adopt a dog
+- Learn about our site
 
 
 ## Branding/perception
@@ -39,14 +44,14 @@ Target Users:
 
 
 ## Communication strategy
-Primary messages:
+###Primary messages:
 - Dog care/advice
 - Charity donations
 - Dog related products
 - Dog adoption
 
-What makes us unique?
+###What makes us unique?
 Our site is unique due to it containing all the primary messages above, most similar sites only provide 1 or 2 of our primary messages, we do all of them.
 
-How we will convey the primary messages:
+###How we will convey the primary messages:
 We will clearly display all the messages via a clear and logical menu located across all pages of the site. This will ensure users can easily access and view all our messages, and everything we have to offer.
