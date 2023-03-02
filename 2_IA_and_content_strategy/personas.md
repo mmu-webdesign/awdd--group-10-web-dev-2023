@@ -8,10 +8,10 @@ Add your three personas.
 
 ## Persona One
 
-<img src="sp2-media/DSC_0080_Original.png" alt="Elderley Disabeld Persona" width="1000">
+<img src="sp2-media/DSC_0080_Original.png" alt="Elderley Disabled Persona" width="1000">
 
 ### Name of persona
-Elderley relative- loves dogs and wants them to be the best they can. Struggles with dementia so having a written guide means she won't forgot the basics of looking after a dog. also she'd share it around with her family so the audinebce of the webiste should hopefully increase in location on on device type. 
+Elderley relative- loves dogs and wants them to be the best they can. Struggles with dementia so having a written guide means she won't forgot the basics of looking after a dog. Also she'd share it around with her family so the audience of the webiste should hopefully increase in location on on device type. Links well with the client research as this area has been discussed to try and accomodate as many users as possible.
 
 ---
 
