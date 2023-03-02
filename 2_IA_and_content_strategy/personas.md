@@ -17,7 +17,7 @@ Elderley relative- loves dogs and wants them to be the best they can. Struggles 
 
 ## Persona Two
 
-<img src="sp2-media/Jackie.png" alt="Jackie Thomason" width="600" height="600">
+<img src="sp2-media/Jackie.png" alt="Jackie Thomason" width="1000px" height="600">
 
 ### Name of persona
 Provide a description and explain how this persona was derived from your user research.
