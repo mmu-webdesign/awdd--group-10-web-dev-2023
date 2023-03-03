@@ -28,5 +28,5 @@ Jackie Thomason wazs recently a new dog owner as of a year and 6 months ago, the
 
 <img src="sp1-media/persona.png" alt="Persona Three" width="1000">
 
-### Name of persona
-Provide a description and explain how this persona was derived from your user research.
+### Camille Lavigne
+Camille Lavigne recently decided she wants to own a dog for the first time as she lives on her own. Camille lives in France but is originally from the UK. She's struggling to find information on the French network based on dogs and advice on how to look after them as a first time dog owner. This persona fits with this project as it can target a wider audience, to people in other countries. 
