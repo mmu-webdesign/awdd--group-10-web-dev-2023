@@ -6,7 +6,7 @@ Add your three storyboards.
 
 ## Storyboard One
 
-<img src="sp1-media/storyboard.png" alt="Storyboard One" width="1000">
+<img src="sp1-media/storyboard.png" alt="Storyboard One" width="1900px">
 
 ### Name of persona in this storyboard
 Provide a description and explain how this storyboard relates to the persona and your user research.
@@ -15,7 +15,7 @@ Provide a description and explain how this storyboard relates to the persona and
 
 ## Storyboard Two
 
-<img src="sp1-media/storyboard.png" alt="Storyboard Two" width="1000">
+<img src="sp2-media/HarryT Storyboard.jpg" alt="Storyboard Two" width="1900px">
 
 ### Jackie Thomason
 This Storyboard relates to Jackie, as due to her owning a dog it focuses more on the dog care/guide aspect of the site. This is because she is likely to use the site for this reason. 
@@ -28,7 +28,7 @@ This storyboard also covers the general accessibility and features of the site. 
 
 ## Storyboard Three
 
-<img src="sp1-media/storyboard.png" alt="Storyboard Three" width="1000">
+<img src="sp1-media/storyboard.png" alt="Storyboard Three" width="1900px">
 
 ### Name of persona in this storyboard
 Provide a description and explain how this storyboard relates to the persona and your user research.
