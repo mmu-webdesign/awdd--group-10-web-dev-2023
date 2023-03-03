@@ -6,10 +6,10 @@ Add your three storyboards.
 
 ## Storyboard One
 
-<img src="sp1-media/storyboard.png" alt="Storyboard One" width="1900px">
+<img src="sp2-media/Dark Blue Photos Six-Panel Storyboard.png" alt="Storyboard One" width="1900px">
 
 ### Name of persona in this storyboard
-Provide a description and explain how this storyboard relates to the persona and your user research.
+This storyboard is aimed at the elderley and disabled as it gives them the key details. It's not overcomplicated and this will be reflected in the website design. The persona related to this storyboard has a heavy interest in dogs and with her increasing age struggles to remember some key things when looking after animals in particular dogs. So this website would help with remembering thoise things. Those close to her could send the kink of the webpoage over each day if her condition deteriorated.
 
 ---
 
