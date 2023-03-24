@@ -128,7 +128,7 @@ You are required to use the Content Schedule template document provided.
 
 ### The Schedule
 
-> Document: [content-delivery-schedule.xlsx](content-delivery-schedule.xlsx)
+> Document: [Updated-ContentDeliverySchedule.xlsx](Updated-ContentDeliverySchedule.xlsx)
 
 _Your content delivery schedule will be reviewed at SP2. It is marked at SP5._
 
